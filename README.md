@@ -1,3 +1,3 @@
 # Nandish-demo
 This is my first Repository.<br>
-Author - Nandish Munavalli
+Author - Nandish
